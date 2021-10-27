@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CobraHAm
-- 👀 I’m interested in python and c++
-- 🌱 I’m currently learning phython3
+- 👀 I’m interested in python, c++, html and css
+- 🌱 I’m currently working on my html "skills"
 - 💞️ I’m looking to collaborate on something of a stable income
 - 📫 How to reach me ...
 
